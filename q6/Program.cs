@@ -1,0 +1,10 @@
+// App.Add(new Rock());
+// App.Add(new TwoRock());
+// App.Add(new Statue()); 
+// App.Add(new Stick()); 
+// App.Add(new FaustaoWall()); 
+// App.Add(new Bebado()); 
+// App.Add(new Enderman()); 
+// App.Add(new Bigorna()); 
+App.Add(new Zagueiro()); 
+App.Run();
